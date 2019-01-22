@@ -12,6 +12,6 @@
 
 ### __ABOUT EMMET__
 
-**![Emmet]**(https://res.cloudinary.com/djnxdb9dr/image/upload/v1548199548/emmet-c_fit_w_220_jpg.jpg)
+![Emmet](https://res.cloudinary.com/djnxdb9dr/image/upload/v1548199548/emmet-c_fit_w_220_jpg.jpg)
 
 **[Website]**(https://emmet.io/)
