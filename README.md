@@ -1,6 +1,6 @@
 # Emmet-Shortcuts-for-VS-Code-Editor
 
-Learning  Shortcut keys
+## __Learning  Shortcut keys__
 
--- In this repository, We can learn about some shotcut keys of Emmet . Learn all the shortcut keys using in VS Code Editor. --
------ Emmet  is the essential toolkit for web developer ---
+-- _In this repository, We can learn about some shotcut keys of Emmet . Learn all the shortcut keys using in VS Code Editor._ --
+----- _Emmet  is the essential toolkit for web developer_git ---
